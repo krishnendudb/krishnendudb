@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnendudb
 - 👀 I’m interested in Data.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on interesting Projects
 - 📫 How to reach me www.linkedin.com/in/krishnenduduttabanik
 
